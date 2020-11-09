@@ -22,12 +22,17 @@ Data Analytics refers to the manipulation, processing and analysis of data. In r
 
 ## Course requirements
 
-<p>To attend, you must have some experience of writing code and/or scripts and be familiar with programming concepts including conditionals, loops, arrays and functions. You should also have some basic knowledge of the Python language. For an introduction to Python, please see Code Academy’s Python tutorial (<a href="https://www.codecademy.com/learn/learn-python-3">https://www.codecademy.com/learn/learn-python-3</a>) or the Software Carpentry’s lesson on Python (<a href="https://swcarpentry.github.io/python-novice-inflammation/">https://swcarpentry.github.io/python-novice-inflammation/</a>)</p>
+To attend, you must have some experience of writing code and/or scripts and be familiar with programming concepts including conditionals, loops, arrays and functions. You should also have some basic knowledge of the Python language. For an introduction to Python, please see [Code Academy’s Python tutorial](https://www.codecademy.com/learn/learn-python-3) or the [Software Carpentry’s lesson on Python](https://swcarpentry.github.io/python-novice-inflammation/).
 
-<p>You should also be comfortable with using the bash shell. For an introduction to the shell, please see, for example Software Carpentry’s lessons on Unix Shell: <a href="https://swcarpentry.github.io/shell-novice/">https://swcarpentry.github.io/shell-novice/</a></p>
+You should also be comfortable with using the bash shell. For an introduction to the shell, please see, for example [Software Carpentry’s lessons on Unix Shell](https://swcarpentry.github.io/shell-novice/).
 
-<p>We strongly recommend you download, before the course, Anaconda Python version 3 from <a href="https://www.anaconda.com/download/">https://www.anaconda.com/download/</a></p>
+We strongly recommend you download, before the course, Anaconda Python version 3 from https://www.anaconda.com/download/
 
-<p>Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+Participants must have a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
 
-<p>They are also required to abide by the <a href="../../code-of-conduct/">ARCHER2 Training Code of Conduct</a>.</p>
+They are also required to abide by the [ARCHER2 Training Code of Conduct](https://www.archer2.ac.uk/training/code-of-conduct/).
+
+## Course material
+
+ * [Data Analysis and Visualization in Python](https://datacarpentry.org/python-ecology-lesson/)
+ * [ARCHER2 User Documentation - Using Python](https://docs.archer2.ac.uk/user-guide/python/)
