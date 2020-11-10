@@ -36,6 +36,6 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](https:
 
  * [Data Analysis and Visualization in Python](https://datacarpentry.org/python-ecology-lesson/)
  * [ARCHER2 User Documentation - Using Python](https://docs.archer2.ac.uk/user-guide/python/)
- * [numpy Jupyter notebook] (https://github.com/EPCCed/archer2-python-20201111/blob/master/lectures/core-numpy/numpy.ipynb)
- * [mpi4py Jupyter notebook] (https://github.com/EPCCed/archer2-python-20201111/blob/master/lectures/dev-mpi4py/mpi4py.ipynb)
+ * [numpy Jupyter notebook](https://github.com/EPCCed/archer2-python-20201111/blob/master/lectures/core-numpy/numpy.ipynb)
+ * [mpi4py Jupyter notebook](https://github.com/EPCCed/archer2-python-20201111/blob/master/lectures/dev-mpi4py/mpi4py.ipynb)
  
