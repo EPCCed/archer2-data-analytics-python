@@ -4,6 +4,8 @@
 
 # ARCHER2 - Data analytics using Python
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 Data Analytics refers to the manipulation, processing and analysis of data. In recent years, this area has undergone a revolution in which HPC has been a key driver. This one-day intermediate course provides an overview of data science and the analytical techniques that form its basis as well as exploring how HPC provides the power that has driven their adoption.
 
 ## Course timetable
@@ -38,4 +40,15 @@ They are also required to abide by the [ARCHER2 Training Code of Conduct](https:
  * [ARCHER2 User Documentation - Using Python](https://docs.archer2.ac.uk/user-guide/python/)
  * [numpy Jupyter notebook](https://github.com/EPCCed/archer2-python-20201111/blob/master/lectures/core-numpy/numpy.ipynb)
  * [mpi4py Jupyter notebook](https://github.com/EPCCed/archer2-python-20201111/blob/master/lectures/dev-mpi4py/mpi4py.ipynb)
- 
+
+---
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
